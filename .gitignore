@@ -1,0 +1,7 @@
+text.txt
+data/
+# membuat sebuah pola misalnya tidak mau menyimpan file dengan
+# extension .exe, maka tinggal ketikan 
+*.exe  
+# itu artinya semua file exe tidak akan di add kedalam staging area
+# atau akan diabaikan oleh gitnya 
